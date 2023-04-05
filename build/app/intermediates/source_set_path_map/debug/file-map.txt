@@ -1,0 +1,17 @@
+com.rivaan.allen.allen.app-jetified-window-java-1.0.0-beta04-0 C:\Users\ujjan\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.rivaan.allen.allen.app-core-1.8.0-1 C:\Users\ujjan\.gradle\caches\transforms-3\270e9501dde0430a83746f97bf9ab544\transformed\core-1.8.0\res
+com.rivaan.allen.allen.app-lifecycle-runtime-2.3.1-2 C:\Users\ujjan\.gradle\caches\transforms-3\76da31ad033c53187dd7271282d0f7d2\transformed\lifecycle-runtime-2.3.1\res
+com.rivaan.allen.allen.app-jetified-annotation-experimental-1.1.0-3 C:\Users\ujjan\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.rivaan.allen.allen.app-jetified-core-ktx-1.8.0-4 C:\Users\ujjan\.gradle\caches\transforms-3\b431c95aeca551584d4466c6f05603c2\transformed\jetified-core-ktx-1.8.0\res
+com.rivaan.allen.allen.app-jetified-window-1.0.0-beta04-5 C:\Users\ujjan\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.rivaan.allen.allen.app-debug-6 F:\Hackthon\Semblance\Semblance-2.0\android\app\src\debug\res
+com.rivaan.allen.allen.app-main-7 F:\Hackthon\Semblance\Semblance-2.0\android\app\src\main\res
+com.rivaan.allen.allen.app-pngs-8 F:\Hackthon\Semblance\Semblance-2.0\build\app\generated\res\pngs\debug
+com.rivaan.allen.allen.app-resValues-9 F:\Hackthon\Semblance\Semblance-2.0\build\app\generated\res\resValues\debug
+com.rivaan.allen.allen.app-rs-10 F:\Hackthon\Semblance\Semblance-2.0\build\app\generated\res\rs\debug
+com.rivaan.allen.allen.app-mergeDebugResources-11 F:\Hackthon\Semblance\Semblance-2.0\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.rivaan.allen.allen.app-mergeDebugResources-12 F:\Hackthon\Semblance\Semblance-2.0\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.rivaan.allen.allen.app-merged_res-13 F:\Hackthon\Semblance\Semblance-2.0\build\app\intermediates\merged_res\debug
+com.rivaan.allen.allen.app-packaged_res-14 F:\Hackthon\Semblance\Semblance-2.0\build\flutter_native_splash\intermediates\packaged_res\debug
+com.rivaan.allen.allen.app-packaged_res-15 F:\Hackthon\Semblance\Semblance-2.0\build\flutter_tts\intermediates\packaged_res\debug
+com.rivaan.allen.allen.app-packaged_res-16 F:\Hackthon\Semblance\Semblance-2.0\build\speech_to_text\intermediates\packaged_res\debug
