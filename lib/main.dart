@@ -1,5 +1,5 @@
-import 'package:allen/home_page.dart';
 import 'package:allen/pallete.dart';
+import 'package:allen/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Pallete.whiteColor,
         ),
       ),
-      home: const HomePage(),
+      home: const SplashScreen(),
     );
   }
 }

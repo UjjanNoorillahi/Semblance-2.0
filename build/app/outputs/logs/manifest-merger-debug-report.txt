@@ -19,7 +19,6 @@ INJECTED from F:\Hackthon\Semblance\Semblance-2.0\android\app\src\main\AndroidMa
 MERGED from F:\Hackthon\Semblance\Semblance-2.0\android\app\src\main\AndroidManifest.xml:1:1-44:12
 MERGED from [:speech_to_text] F:\Hackthon\Semblance\Semblance-2.0\build\speech_to_text\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:flutter_tts] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_tts\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:flutter_native_splash] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ujjan\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ujjan\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.core:core-ktx:1.8.0] C:\Users\ujjan\.gradle\caches\transforms-3\b431c95aeca551584d4466c6f05603c2\transformed\jetified-core-ktx-1.8.0\AndroidManifest.xml:2:1-9:12
@@ -95,8 +94,6 @@ MERGED from [:speech_to_text] F:\Hackthon\Semblance\Semblance-2.0\build\speech_t
 MERGED from [:speech_to_text] F:\Hackthon\Semblance\Semblance-2.0\build\speech_to_text\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_tts] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_tts\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:flutter_tts] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_tts\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_native_splash] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_native_splash] F:\Hackthon\Semblance\Semblance-2.0\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ujjan\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\ujjan\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\ujjan\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
