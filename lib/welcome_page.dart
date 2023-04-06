@@ -1,5 +1,3 @@
-//
-
 import 'package:flutter/material.dart';
 import 'package:speech_to_text/speech_to_text.dart';
 
@@ -33,7 +31,7 @@ class _WelcomePageState extends State<WelcomePage> {
             ),
             const SizedBox(height: 20),
             const Text(
-              '"Welcome Message here"',
+              'Hi, I\'m Semblance!',
               style: TextStyle(
                 color: Pallete.secondaryColor,
                 fontWeight: FontWeight.bold,
